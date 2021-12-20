@@ -2,8 +2,8 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 
 ##### 5 Current Programming skills - 
 
-* **JavaScript
-* **HTML 5
-* **CSS
-* **MarkDown
-* **Git
+* **JavaScript**
+* **HTML 5**
+* **CSS**
+* **MarkDown**
+* **Git**
